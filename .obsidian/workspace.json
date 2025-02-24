@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "c6e145a8b12f84bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f495dfeaa699f15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aeb1c13b078a273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mystras Temple.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mystras Temple"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7685267f94f73a52",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce0946971e9f0a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6674e00699f5da5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2124b39d49170745",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f883c38b734f463d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.50312423706055
+  },
+  "right": {
+    "id": "720001cda8c247fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1faa4f5f7fca04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2a9fc1a418192bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mystras Temple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mystras Temple"
+            }
+          },
+          {
+            "id": "17b68c2a5259be2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mystras Temple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Mystras Temple"
+            }
+          },
+          {
+            "id": "b9af0e406b414fef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "315ead2cde7fd073",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mystras Temple.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mystras Temple"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false
+    }
+  },
+  "active": "6aeb1c13b078a273",
+  "lastOpenFiles": [
+    "Featherworth.md",
+    "Featherworth.md",
+    "templates/session template.md",
+    "templates/item template.md",
+    "Session 31 - TBD.md",
+    "Meteorite Fragment.md",
+    "templates/npc template.md",
+    "templates/location template.md",
+    "The Glass Dice.md",
+    "The Sapphire Lute.md",
+    "The Panther.md",
+    "The Twisted Tankard.md",
+    "The Diamond Devil.md",
+    "Lugland.md",
+    "Lysander Lightfoot.md",
+    "Mayor Eret.md",
+    "Mystras Temple.md",
+    "Eamon.md",
+    "Brink.md",
+    "Session 1 - The Meteorite Mystery.md",
+    "templates",
+    "Session 12 - \"How Tall Are They?\".md",
+    "Session 6 - A Pirate's Life For Me!.md",
+    "Rowan.md",
+    "Rither.md",
+    "Rue.md",
+    "Session 30 - Dipped in silver.md"
+  ]
+}
