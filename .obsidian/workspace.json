@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mystras Temple.md",
+                "file": "templates/session template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mystras Temple"
+              "title": "session template"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.50312423706055
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mystras Temple.md",
+                "file": "templates/session template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mystras Temple"
+              "title": "Backlinks for session template"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mystras Temple.md",
+                "file": "templates/session template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mystras Temple"
+              "title": "Outgoing links from session template"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mystras Temple.md",
+                "file": "templates/session template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mystras Temple"
+              "title": "Outline of session template"
             }
           }
         ]
@@ -177,19 +177,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false
+      "quick-tagger:Remove tag from current note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "Featherworth.md",
-    "Featherworth.md",
+    "Session 32 - test.md",
     "templates/session template.md",
-    "templates/item template.md",
-    "Session 31 - TBD.md",
-    "Meteorite Fragment.md",
     "templates/npc template.md",
     "templates/location template.md",
+    "templates/item template.md",
+    "Session 31 - Woes for the Werewolves.md",
+    "Mystras Temple.md",
+    "Featherworth.md",
+    "Featherworth.md",
+    "Meteorite Fragment.md",
     "The Glass Dice.md",
     "The Sapphire Lute.md",
     "The Panther.md",
@@ -198,7 +201,6 @@
     "Lugland.md",
     "Lysander Lightfoot.md",
     "Mayor Eret.md",
-    "Mystras Temple.md",
     "Eamon.md",
     "Brink.md",
     "Session 1 - The Meteorite Mystery.md",
@@ -207,7 +209,6 @@
     "Session 6 - A Pirate's Life For Me!.md",
     "Rowan.md",
     "Rither.md",
-    "Rue.md",
-    "Session 30 - Dipped in silver.md"
+    "Rue.md"
   ]
 }
