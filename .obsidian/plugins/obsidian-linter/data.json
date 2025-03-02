@@ -302,13 +302,6 @@
       "replace": "\\n$2",
       "flags": "gm",
       "enabled": true
-    },
-    {
-      "label": "Ban bold",
-      "find": "(\\*\\*)",
-      "replace": "",
-      "flags": "gm",
-      "enabled": true
     }
   ],
   "commonStyles": {
