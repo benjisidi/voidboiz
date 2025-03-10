@@ -55,8 +55,7 @@
               "title": "The slush fund"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The slush fund.md",
+                "file": "Session 33 - A Quest Most Fowl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The slush fund"
+              "title": "Backlinks for Session 33 - A Quest Most Fowl"
             }
           },
           {
@@ -206,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fb9bfe83d8e3a62",
+  "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "The slush fund.md",
+    "Session 33 - A Quest Most Fowl.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Session 33 - A Quest Most Fowl.md",
     "Redrock Cove.md",
     "Lord Erebus.md",
     "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
