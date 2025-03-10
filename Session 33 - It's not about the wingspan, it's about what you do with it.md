@@ -17,7 +17,11 @@ A couple of people have been murdered:
 - [ ] Ask around in the tavern
 - [ ] Check the bodies in the fort
 - [ ] Go to the market in the morning and ask the servants if they know stuff
-- [ ] 
+- [ ] Talk to Bower (infernal writing?)
+- [ ] See who tf has a raven
+- [ ] Go to the Leviathan's Shadow to investigate Monty's murder
+- [ ] Go to the ballroom and investigate Lady Blackmarch's death
+- [ ] See where the stone fits
 ### Rewards
 - **300 GP** each + expenses + lodging + cash from Baxter - for investigating at all
 - **200 GP** each - for finding out who did it
