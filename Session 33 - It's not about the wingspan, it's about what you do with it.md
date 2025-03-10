@@ -31,4 +31,6 @@ A couple of people have been murdered:
 ## Investigating Sabine's death
 - The day after Lady Blackmarch was murdered the Twilight guards came to investigate if anyone knew anything in the manor
 - Sabine was found in the pantry - very disturbing
-- 
+- The guard leads us to the pantry. There is a pool of blood on the ground and around the pool of blood there are blood written runes (blood blood blood blood blood). It's written in Infernal (tieflings speak infernal oh no)
+- The runes look like some necromantic ritual - a binding spell
+- All of the three bodies 
