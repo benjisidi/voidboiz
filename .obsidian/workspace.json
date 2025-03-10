@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 31 - Woes for the Werewolves.md",
+                "file": "Session 33 - A.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 31 - Woes for the Werewolves"
-            }
-          },
-          {
-            "id": "118c180c9c7846ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 33.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Session 33"
+              "title": "Session 33 - A"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fowl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.50418853759766,
-    "collapsed": true
+    "width": 329.50418853759766
   },
   "right": {
     "id": "720001cda8c247fb",
@@ -130,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 33.md",
+                "file": "Session 33 - A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 33"
+              "title": "Backlinks for Session 33 - A"
             }
           },
           {
@@ -207,12 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "118c180c9c7846ac",
+  "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "Session 31 - Woes for the Werewolves.md",
-    "Session 33.md",
-    "Session 30 - Dipped in silver.md",
+    "Lord Erebus.md",
+    "Redrock Cove.md",
+    "Session 33 - A.md",
     "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
+    "Session 31 - Woes for the Werewolves.md",
+    "Session 30 - Dipped in silver.md",
     "Session 28 - Boom…Oops!.md",
     "templates/session template 1.md",
     "Session 1 - The Meteorite Mystery.md",
@@ -233,8 +209,6 @@
     "Lugland.md",
     "Lysander Lightfoot.md",
     "Mayor Eret.md",
-    "Eamon.md",
-    "Brink.md",
     "templates"
   ]
 }

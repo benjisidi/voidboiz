@@ -9,7 +9,7 @@ The group returns to The Squall, where they find multiple copies of a bounty fly
 It reads:
 > *Experienced adventurers wanted to solve a mystery most fowl. Potentially dangerous. Previous experience investigating crimes beneficial. Generous compensation available upon successful apprehension of the culprit(s).*
 >
-> *Interested parties please see Lord Erebus in Redcliffe Manor, Redrock.*
+> *Interested parties please see [[Lord Erebus]] in Redcliffe Manor, Redrock.*
 
 At the bottom, there is a wax sigil of a raven flying over a cliff.
 - The paper is high-quality and waxed to protect it from the rain.
