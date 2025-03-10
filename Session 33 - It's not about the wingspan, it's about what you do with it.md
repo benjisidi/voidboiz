@@ -25,6 +25,10 @@ A couple of people have been murdered:
 - Looks like [[Lord Erebus]] has an injury on his leg from a duel a long time ago
 - As the void boiz leave they see a massive manticore flying around the manor (it belongs to [[Lord Erebus]], there was a painting of the two of them ❤️)
 # The Blackmarch manor
-- The void boiz head to Lady Blackmarch's manor, it's in the carved cliff. The house is empty apart from city guards.
+- The void boiz head to Lady Blackmarch's manor, it's in the carved cliff. The house is empty apart from city guards (Twilight guards).
 - They say they are independent investigators and ask to come in. It works!
-- The guard shows them around
+- The guard shows them around - turns out this is the guard that found Sabine's
+## Investigating Sabine's death
+- The day after Lady Blackmarch was murdered the Twilight guards came to investigate if anyone knew anything in the manor
+- Sabine was found in the pantry - very disturbing
+- 
