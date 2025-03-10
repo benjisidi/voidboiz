@@ -13,6 +13,11 @@ A couple of people have been murdered:
 - The lady's maid (Sabine) was found dead in her kitchen (house on the cliffside) - Found the maid a day or so later
 - Well known tramp (Monty) was found dead in Leviathan's Shadow (underground market) - Found a day or so later
 - Other suspect is Bower (tiefling) - but suspicions are racist
+
+- [ ] Ask around in the tavern
+- [ ] Check the bodies in the fort
+- [ ] Go to the market in the morning and ask the servants if they know stuff
+- [ ] 
 ### Rewards
 - **300 GP** each + expenses + lodging + cash from Baxter - for investigating at all
 - **200 GP** each - for finding out who did it
@@ -54,4 +59,3 @@ A couple of people have been murdered:
 - That is the only thing in the safe.
 - Octesian palms the stone undetected
 - **Brildahhh is the guard**
-- 
