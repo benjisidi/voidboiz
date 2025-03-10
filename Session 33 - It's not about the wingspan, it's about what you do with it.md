@@ -33,6 +33,7 @@ A couple of people have been murdered:
 - Sabine was found in the pantry - very disturbing
 - The guard leads us to the pantry. There is a pool of blood on the ground and around the pool of blood there are blood written runes (blood blood blood blood blood). It's written in Infernal (tieflings speak infernal oh no)
 - The runes look like some necromantic ritual - a binding spell
+	- But it looks like it was never finished
 - All of the three bodies are at the fort
 - Mages have seen the body but this is outside of their expertise
 - The bodies are all being prevented from raising as undead (they cast a spell on the bodies)
@@ -42,5 +43,5 @@ A couple of people have been murdered:
 - The Lady's collection was never found, so the void boiz go and try to find it.
 ## Investigation montage
 - Lug gets help from everyone and investigates the house
-- In the pantry, under one of the legs of a shelf, he finds a small black feather - a raven's feather
-- 
+- In the pantry, under one of the legs of a shelf, he finds a small black feather - **a raven's feather**
+- In the Lady's room we find a hidden safe
