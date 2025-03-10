@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fowl",
+                "query": "tag:#a-quest-tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aeb1c13b078a273",
+  "active": "2124b39d49170745",
   "lastOpenFiles": [
     "Lord Erebus.md",
     "Redrock Cove.md",
