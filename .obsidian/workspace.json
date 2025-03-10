@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2124b39d49170745",
+  "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "Lord Erebus.md",
     "Redrock Cove.md",
+    "Lord Erebus.md",
     "Session 33 - A.md",
     "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
     "Session 31 - Woes for the Werewolves.md",

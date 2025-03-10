@@ -4,9 +4,10 @@ tags:
 ---
 # Description
 ## Appearance
-Clothing, race, sex, etc
+Human, 40-ish
 ## Persona
 They are a lord of a manor. They might be a vampire?
+- Collector of rare artifacts
 # Location
 [[Redrock Cove]]
 # Additional Notes
