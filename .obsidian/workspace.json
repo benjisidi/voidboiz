@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Session 33 - A Quest Most Fowl"
             }
+          },
+          {
+            "id": "3fb9bfe83d8e3a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The slush fund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The slush fund"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 33 - A Quest Most Fowl.md",
+                "file": "The slush fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 33 - A Quest Most Fowl"
+              "title": "Backlinks for The slush fund"
             }
           },
           {
@@ -181,11 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aeb1c13b078a273",
+  "active": "3fb9bfe83d8e3a62",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "The slush fund.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Session 33 - A Quest Most Fowl.md",
     "Redrock Cove.md",
     "Lord Erebus.md",
-    "Session 33 - A Quest Most Fowl.md",
     "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
     "Session 31 - Woes for the Werewolves.md",
     "Session 30 - Dipped in silver.md",
@@ -205,10 +234,6 @@
     "The Sapphire Lute.md",
     "The Panther.md",
     "The Twisted Tankard.md",
-    "The Diamond Devil.md",
-    "Lugland.md",
-    "Lysander Lightfoot.md",
-    "Mayor Eret.md",
     "templates"
   ]
 }
