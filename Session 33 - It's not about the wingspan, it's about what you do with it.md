@@ -44,4 +44,8 @@ A couple of people have been murdered:
 ## Investigation montage
 - Lug gets help from everyone and investigates the house
 - In the pantry, under one of the legs of a shelf, he finds a small black feather - **a raven's feather**
-- In the Lady's room we find a hidden safe
+- In the Lady's room we find a hidden safe in the wall.
+	- Octesian sprays one of the lady's perfumes and sprays it in the air
+	- Sees that droplets get sucked by the air in the safe into it
+- Octesian sees that the safe is trapped and manages to disarm it. Gets a small vial of sprayable poison
+- 
