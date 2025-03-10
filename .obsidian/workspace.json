@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 33 - It's not about the wingspan, it's about what you do with it.md",
+                "file": "Lunavesca.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 33 - It's not about the wingspan, it's about what you do with it"
+              "title": "Lunavesca"
             }
           },
           {
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 33 - It's not about the wingspan, it's about what you do with it.md",
+                "file": "Lunavesca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 33 - It's not about the wingspan, it's about what you do with it"
+              "title": "Backlinks for Lunavesca"
             }
           },
           {
@@ -207,16 +207,18 @@
   },
   "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "The slush fund.md",
+    "Session 30 - Dipped in silver.md",
+    "Lunavesca.md",
     "Session 33 - It's not about the wingspan, it's about what you do with it.md",
+    "Lord Erebus.md",
+    "The Panther.md",
+    "The slush fund.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
     "Redrock Cove.md",
-    "Lord Erebus.md",
     "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
     "Session 31 - Woes for the Werewolves.md",
-    "Session 30 - Dipped in silver.md",
     "Session 28 - Boom…Oops!.md",
     "templates/session template 1.md",
     "Session 1 - The Meteorite Mystery.md",
@@ -231,8 +233,6 @@
     "Meteorite Fragment.md",
     "The Glass Dice.md",
     "The Sapphire Lute.md",
-    "The Panther.md",
-    "The Twisted Tankard.md",
     "templates"
   ]
 }

@@ -24,4 +24,4 @@ A couple of people have been murdered:
 - We find out where the market where the maids go to is.
 - Looks like [[Lord Erebus]] has an injury on his leg from a duel a long time ago
 - As the void boiz leave they see a massive manticore flying around the manor (it belongs to [[Lord Erebus]], there was a painting of the two of them ❤️)
-- 
+-
