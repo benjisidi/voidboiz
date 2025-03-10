@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/session template.md",
+                "file": "Session 31 - Woes for the Werewolves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "session template"
+              "title": "Session 31 - Woes for the Werewolves"
             }
           }
         ]
@@ -183,13 +183,16 @@
   },
   "active": "6aeb1c13b078a273",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Session 29 - The Void Boiz Spend a Long Time Standing by a Cave.md",
+    "Session 30 - Dipped in silver.md",
+    "Session 31 - Woes for the Werewolves.md",
+    "Session 1 - The Meteorite Mystery.md",
     "templates/session template.md",
+    "Untitled.md",
     "templates/npc template.md",
     "templates/location template.md",
     "templates/item template.md",
     "Session 32 - test.md",
-    "Session 31 - Woes for the Werewolves.md",
     "Mystras Temple.md",
     "Featherworth.md",
     "Featherworth.md",
@@ -204,11 +207,8 @@
     "Mayor Eret.md",
     "Eamon.md",
     "Brink.md",
-    "Session 1 - The Meteorite Mystery.md",
     "templates",
     "Session 12 - \"How Tall Are They?\".md",
-    "Session 6 - A Pirate's Life For Me!.md",
-    "Rowan.md",
-    "Rither.md"
+    "Session 6 - A Pirate's Life For Me!.md"
   ]
 }
