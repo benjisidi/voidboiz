@@ -13,8 +13,9 @@ A couple of people have been murdered:
 - The lady's maid (Sabine) was found dead in her kitchen - Found the maid a day or so later
 - Well known tramp (Monty) was found dead in Leviathan's Shadow (underground market) - Found a day or so later
 ### Rewards
-- **300 GP** each + expenses -
-- **200 GP** - 
+- **300 GP** each + expenses + lodging + cash from Baxter - for investigating at all
+- **200 GP** each - for finding out who did it
+- **everything in the vault** - if we can prove the lord did it (we don't think he did it)
 # Investigation continues
 - Lug is really curious as to how you become a collector
-- He
+- The void boiz accept and get 
