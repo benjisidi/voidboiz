@@ -1,6 +1,6 @@
 Scribe: Tania Silva
 Created Date: 2025-03-10
-Characters Present: [[El]] (Monk), [[Lug]] (Artificer), [[Octesian]] (Rogue)
+Characters Present: [[El]] (Monk), [[Lug]] (Artificer), [[Octesian]] (Rogue) - Sleeptisian
 Location(s): [[Redrock Cove]]
 #a-quest-most-fowl
 # The First Entry
@@ -66,4 +66,6 @@ A couple of people have been murdered:
 ## On to the fort!
 - The party head to the fort and manage to be led in to investigate the bodies.
 - We are lead down a staircase underneath the keep into a dungeon
-- Very suspiciously the guard closes us into 
+- Very suspiciously the guard closes us into this massive freezing fridge cell. 🥶
+- There's a magical cone of aircon in the middle keeping the room cold.
+- Around it there are three bodies.
