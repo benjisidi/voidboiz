@@ -15,7 +15,7 @@ A couple of people have been murdered:
 - Other suspect is Bower (tiefling) - but suspicions are racist
 
 - [ ] Ask around in the tavern
-- [ ] Check the bodies in the fort
+- [x] Check the bodies in the fort
 - [ ] Go to the market in the morning and ask the servants if they know stuff
 - [ ] Talk to Bower (infernal writing?)
 - [ ] See who tf has a raven
@@ -63,3 +63,7 @@ A couple of people have been murdered:
 - That is the only thing in the safe.
 - Octesian palms the stone undetected
 - **Brildahhh is the guard**
+## On to the fort!
+- The party head to the fort and manage to be led in to investigate the bodies.
+- We are lead down a staircase underneath the keep into a dungeon
+- Very suspiciously the guard closes us into 
