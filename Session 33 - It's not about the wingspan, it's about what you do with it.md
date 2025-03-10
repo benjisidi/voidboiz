@@ -24,4 +24,7 @@ A couple of people have been murdered:
 - We find out where the market where the maids go to is.
 - Looks like [[Lord Erebus]] has an injury on his leg from a duel a long time ago
 - As the void boiz leave they see a massive manticore flying around the manor (it belongs to [[Lord Erebus]], there was a painting of the two of them ❤️)
-- The void boiz head to Lady Blackmarch's 
+# The Blackmarch manor
+- The void boiz head to Lady Blackmarch's manor, it's in the carved cliff. The house is empty apart from city guards.
+- They say they are independent investigators and ask to come in. It works!
+- The guard shows them around
