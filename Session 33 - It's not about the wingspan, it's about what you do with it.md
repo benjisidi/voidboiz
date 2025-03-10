@@ -50,4 +50,8 @@ A couple of people have been murdered:
 - Octesian sees that the safe is trapped and manages to disarm it. Gets a small vial of sprayable poison
 - Octesian expertly opens the safe - cracking the code 46-32-12-87
 	- Octesian canonically is a Math savant
-- Inside the safe there is a marbley red stone, six pointed star. Looks like a key to something 
+- Inside the safe there is a **marbley red stone, six pointed star**. Looks like a key to something.
+- That is the only thing in the safe.
+- Octesian palms the stone undetected
+- **Brildahhh is the guard**
+- 
