@@ -20,3 +20,4 @@ A couple of people have been murdered:
 - Lug is really curious as to how you become a collector
 - The void boiz accept and get a silver scroll that details the employment - the contract
 - Everyone signs the contract (including [[Octesian]]!)
+- 
