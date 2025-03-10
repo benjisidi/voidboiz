@@ -18,4 +18,5 @@ A couple of people have been murdered:
 - **everything in the vault** - if we can prove the lord did it (we don't think he did it)
 # Investigation continues
 - Lug is really curious as to how you become a collector
-- The void boiz accept and get 
+- The void boiz accept and get a silver scroll that details the employment - the contract
+- Everyone signs the contract (including [[Octesian]]!)
