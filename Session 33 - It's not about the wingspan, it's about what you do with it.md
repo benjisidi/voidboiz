@@ -39,4 +39,8 @@ A couple of people have been murdered:
 	- Yay!
 - No weapon found but stab wounds on Sabine's body
 - There was only one other servant (the cook)
-- The Lady's collection was never found, so the void boiz go and try to find 
+- The Lady's collection was never found, so the void boiz go and try to find it.
+## Investigation montage
+- Lug gets help from everyone and investigates the house
+- In the pantry, under one of the legs of a shelf, he finds a small black feather - a raven's feather
+- 
